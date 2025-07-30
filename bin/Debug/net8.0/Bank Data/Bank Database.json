@@ -1,0 +1,56 @@
+﻿[
+  {
+    "Name": "Olaitan Moses",
+    "Gender": "Male",
+    "Age": 18,
+    "PhoneNumber": "07057998041",
+    "Address": "Unilag",
+    "Bank": "Zenyth",
+    "Password": "aaaa",
+    "Account": {
+      "AccountName": "Olaitan Moses",
+      "AccountNumber": "2560A",
+      "Type": "Savings",
+      "Balance": 20.00,
+      "Transactions": [],
+      "IsFrozen": false,
+      "DateCreated": "2024-04-02T12:45:00"
+    }
+  },
+  {
+    "Name": "Olaitan Faith",
+    "Gender": "Female",
+    "Age": 56,
+    "PhoneNumber": "08057998041",
+    "Address": "Bariga",
+    "Bank": "Zenyth",
+    "Password": "aaaab",
+    "Account": {
+      "AccountName": "Olaitan Faith",
+      "AccountNumber": "2561A",
+      "Type": "Savings",
+      "Balance": 200000.00,
+      "Transactions": [],
+      "IsFrozen": false,
+      "DateCreated": "2005-09-06T15:23:00"
+    }
+  },
+  {
+    "Name": "Jennifer Lawson",
+    "Gender": "Female",
+    "Age": 56,
+    "PhoneNumber": "08057998041",
+    "Address": "Bariga",
+    "Bank": "Zenyth",
+    "Password": "aaac",
+    "Account": {
+      "AccountName": "Jennifer Lawson",
+      "AccountNumber": "2562A",
+      "Type": "Savings",
+      "Balance": 0.00,
+      "Transactions": [],
+      "IsFrozen": false,
+      "DateCreated": "2025-07-06T13:20:00"
+    }
+  }
+]

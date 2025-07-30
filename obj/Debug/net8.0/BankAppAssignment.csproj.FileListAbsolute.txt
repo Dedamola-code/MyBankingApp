@@ -1,0 +1,20 @@
+C:\Users\adeju\source\repos\BankAppAssignment\bin\Debug\net8.0\BankAppAssignment.exe
+C:\Users\adeju\source\repos\BankAppAssignment\bin\Debug\net8.0\Bank Data\Bank Database.json
+C:\Users\adeju\source\repos\BankAppAssignment\bin\Debug\net8.0\BankAppAssignment.deps.json
+C:\Users\adeju\source\repos\BankAppAssignment\bin\Debug\net8.0\BankAppAssignment.runtimeconfig.json
+C:\Users\adeju\source\repos\BankAppAssignment\bin\Debug\net8.0\BankAppAssignment.dll
+C:\Users\adeju\source\repos\BankAppAssignment\bin\Debug\net8.0\BankAppAssignment.pdb
+C:\Users\adeju\source\repos\BankAppAssignment\bin\Debug\net8.0\BankAppAssignment.xml
+C:\Users\adeju\source\repos\BankAppAssignment\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\BankAppAssignment.csproj.AssemblyReference.cache
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\BankAppAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\BankAppAssignment.AssemblyInfoInputs.cache
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\BankAppAssignment.AssemblyInfo.cs
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\BankAppAssignment.csproj.CoreCompileInputs.cache
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\BankAppA.746D5E07.Up2Date
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\BankAppAssignment.dll
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\refint\BankAppAssignment.dll
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\BankAppAssignment.xml
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\BankAppAssignment.pdb
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\BankAppAssignment.genruntimeconfig.cache
+C:\Users\adeju\source\repos\BankAppAssignment\obj\Debug\net8.0\ref\BankAppAssignment.dll
